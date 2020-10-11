@@ -1,0 +1,29 @@
+nav {
+  display: flex;
+  align-items: center;
+  background-color: grey;
+  border-radius: 10px;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-links {
+  margin-top: 1%;
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  color: white;
+  text-decoration: none;
+}
+.headers {
+  margin-top: 2vw;
+  display: flex;
+  align-items: center;
+  background-color: rgb(66, 168, 216);
+  border-radius: 10px;
+  justify-content: space-around;
+  align-items: center;
+}
+.content {
+  border: black solid 2px;
+}

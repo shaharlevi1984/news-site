@@ -1,0 +1,41 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-news-dev-160212-authRole",
+      "UnauthRoleArn": "arn:aws:iam::549128432313:role/amplify-news-dev-160212-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::549128432313:role/amplify-news-dev-160212-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-news-dev-160212-deployment",
+      "UnauthRoleName": "amplify-news-dev-160212-unauthRole",
+      "StackName": "amplify-news-dev-160212",
+      "StackId": "arn:aws:cloudformation:us-east-1:549128432313:stack/amplify-news-dev-160212/d40f3760-0641-11eb-bd1c-0a7162bf9a3d",
+      "AmplifyAppId": "d172zalgc15alb"
+    }
+  },
+  "newsenv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-news-newsenv-175401-authRole",
+      "UnauthRoleArn": "arn:aws:iam::549128432313:role/amplify-news-newsenv-175401-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::549128432313:role/amplify-news-newsenv-175401-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-news-newsenv-175401-deployment",
+      "UnauthRoleName": "amplify-news-newsenv-175401-unauthRole",
+      "StackName": "amplify-news-newsenv-175401",
+      "StackId": "arn:aws:cloudformation:us-east-1:549128432313:stack/amplify-news-newsenv-175401/72115bf0-0651-11eb-b1b0-0e92a46f2873",
+      "AmplifyAppId": "d36rj06lftwd59"
+    }
+  },
+  "env": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-news-env-175720-authRole",
+      "UnauthRoleArn": "arn:aws:iam::549128432313:role/amplify-news-env-175720-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::549128432313:role/amplify-news-env-175720-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-news-env-175720-deployment",
+      "UnauthRoleName": "amplify-news-env-175720-unauthRole",
+      "StackName": "amplify-news-env-175720",
+      "StackId": "arn:aws:cloudformation:us-east-1:549128432313:stack/amplify-news-env-175720/e90ccd20-0651-11eb-8930-0e7b8fbdd9d7",
+      "AmplifyAppId": "d36rj06lftwd59"
+    }
+  }
+}
